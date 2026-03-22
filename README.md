@@ -1,6 +1,6 @@
 # What The Python
 
-Python 基础入门学习笔记，跟随尚硅谷 Python 教程编写的练习代码。
+Python 基础入门学习笔记
 
 ## 项目简介
 
